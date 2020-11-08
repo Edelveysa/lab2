@@ -1,1 +1,2 @@
-# lab2
+# Lab2
+![alt text](program.png)
